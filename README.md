@@ -41,7 +41,7 @@
 ## 📂 Repository Structure
 
 - `README.md` – This file  
-- `Patagonia_Presentation_Slides.pdf` – Visual summary of project  
+- `StratEdge_BigData_Customer_Intelligence_Patagonia.pdf` – Visual summary of project  
 ---
 
 _This project reflects applied mastery of big data principles within a strategic marketing context, emphasizing ethical use, segmentation precision, and long-term business value._  
